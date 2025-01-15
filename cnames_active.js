@@ -1948,6 +1948,7 @@ var cnames_active = {
   "medium": "factmaven.github.io/medium.js",
   "medium-converter": "gunar.github.io/medium-converter", // noCF
   "meed": "pinjasaur.github.io/meed",
+  "meet": "cname.vercel-dns.com", // noCF
   "mega": "qgustavor.github.io/megajs-docs",
   "megdb": "megalithoffical.github.io",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
